@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 #### 3. Конфигурация
 
-Создайте файл `config.py` в корне проекта и добавьте в него ваш токен от Telegram Bot API:
+Создайте файл `configuration.py` в корне проекта и добавьте в него ваш токен от Telegram Bot API:
 
 ```python
 TOKEN = "ВАШ_ТОКЕН"
